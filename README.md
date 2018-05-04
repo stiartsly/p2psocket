@@ -1,2 +1,8 @@
-# p2psocket
-p2psocket on Toxcore
+P2P Socket Over Tox
+===================
+
+## Summary
+UDP/TCP socket over Tox network.
+
+## License
+MIT
